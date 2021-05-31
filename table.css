@@ -1,0 +1,61 @@
+table {
+	margin: auto;
+}
+
+table, th, td {
+	border: 1px solid black;
+}
+
+td, th {
+	padding: 5px;
+}
+
+h1 {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+td: hover, td: hover {
+	
+}
+
+h3 {
+	text-align: center;
+}
+
+.schedule {
+	display: flex;
+	justify-content: space-evenly;
+	margin: 10px;
+}
+
+.schedule-border {
+	border: 10px solid black;
+	border-radius: 20px;
+}
+
+.highlights {
+	float: right;
+	margin-right: 100px;
+	margin-top: 0px;
+}
+
+.header-4 {
+	margin: 50px;
+}
+
+.hl-video {
+	margin-left: 25px;
+	border: 10px solid black;
+	border-radius: 20px;
+}
+
+.stats {
+	float: right;
+	margin-right: 100px;
+}
+
+.float-left {
+	float: left;
+	margin-left: 100px;
+}
